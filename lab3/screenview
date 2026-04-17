@@ -11,7 +11,7 @@ export default function App() {
       { backgroundColor: isDark ? '#000' : '#fff' }
     ]}>
       <Text style={{ color: isDark ? '#fff' : '#000' }}>
-        Hello Everyone !! Koushal here.
+        Hello Everyone !! Akshatha here.
       </Text>
     </View>
   );
